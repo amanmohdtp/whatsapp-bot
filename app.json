@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "Godze",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -12,7 +12,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 919876543210 (IN)",
+            "description": "918304063560",
             "required": false
         },
         "HANDLERS": {
@@ -51,7 +51,7 @@
         "NO_ONLINE": {
             "description": "set true to hide online.",
             "required": false,
-            "value": "true"
+            "value": "false"
         },
         "WARN_COUNT": {
             "description": "Maximum no of warns",
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "🥰, MALDINI EL CAPITANO"
         },
         "DISABLE_BOT": {
             "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
